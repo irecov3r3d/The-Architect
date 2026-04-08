@@ -1,0 +1,5 @@
+{
+  "name": "The Architect",
+  "description": "A master specification engine that unifies existing builds and visions into a single system prompt for AI Studio.",
+  "requestFramePermissions": []
+}
